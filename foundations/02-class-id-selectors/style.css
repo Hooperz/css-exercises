@@ -1,5 +1,5 @@
 .Odd {
-    background-color: #f99ead;
+    background-color: rgb(249, 159, 174);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #Four {
-    background-color: #6ce96c;
+    background-color: hsl(120, 74%, 67%);
     font-size: 24px;
     font-weight: bold;
 }
